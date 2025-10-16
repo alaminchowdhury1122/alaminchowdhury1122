@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Al Amin Chowdhury
+#  Hi, I'm Al Amin Chowdhury
 
-### 🚀 AI & ML Learner | Python Developer | Linux Enthusiast and Customizer  
+###  AI & ML Learner | Python Developer | Linux Enthusiast and Customizer  
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I’m an aspiring **AI & Machine Learning developer** with a deep interest in **Linux systems** and **open-source technologies**.  
-My focus is on leveraging **Python**, **mathematics**, and **data-driven algorithms** to build intelligent, efficient, and practical solutions.
+My focus is on leveraging Python, mathematics, and AI/ML methodologies to develop intelligent, efficient, and scalable solutions that drive real-world impact.
 
-- 🌱 Currently expanding my knowledge in **Python**, **Machine Learning**, **Deep Learning**, and **Mathematical Modeling**  
-- 🤝 Open to collaborating on **real-world AI/ML projects** and **Python automation tools**  
-- 💡 Passionate about **Linux customization**, performance tuning, and system optimization  
-- ⚡ Fun fact: I enjoy exploring **Linux distros** and researching **global politics**  
+-  Currently expanding my knowledge in **Python**, **Machine Learning**, **Deep Learning**, and **Mathematical Modeling**  
+-  Open to collaborating on **real-world AI/ML projects** and **Python automation tools**  
+-  Passionate about **Linux customization**, performance tuning, and system optimization  
+-  Fun fact: I enjoy exploring **Linux distros** and researching **global politics**  
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaminchowdhury1122&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminchowdhury1122&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
@@ -23,14 +23,13 @@ My focus is on leveraging **Python**, **mathematics**, and **data-driven algorit
 
 ---
 
-### 🧠 Technical Skills
+###  Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,vscode,html,css,js,react,django" alt="Skills"/>
 </p>
 
 ---
-
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://www.facebook.com/al.amin.chowdhury.575638/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -45,8 +44,8 @@ My focus is on leveraging **Python**, **mathematics**, and **data-driven algorit
 
 ---
 
-### 💭 Personal Philosophy
-> “Artificial Intelligence will not replace humans — but humans who use AI will replace those who don’t.”  
+###  Personal Philosophy
+> “Artificial Intelligence will not replace humans but humans who use AI will replace those who don’t.”  
 > — *Al Amin Chowdhury*
 
 ---
