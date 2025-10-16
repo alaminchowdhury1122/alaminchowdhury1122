@@ -1,4 +1,4 @@
-#  Hi, I'm Al Amin Chowdhury
+# Hi, I'm Al Amin Chowdhury
 
 ###  AI & ML Learner | Python Developer | Linux Enthusiast and Customizer  
 
@@ -6,9 +6,9 @@
 
 ###  About Me
 I’m an aspiring **AI & Machine Learning developer** with a deep interest in **Linux systems** and **open-source technologies**.  
-My focus is on leveraging Python, mathematics, and AI/ML methodologies to develop intelligent, efficient, and scalable solutions that drive real-world impact.
+I focus on using **Python** and **AI/ML** to build intelligent, scalable, and impactful solutions.
 
--  Currently expanding my knowledge in **Python**, **Machine Learning**, **Deep Learning**, and **Mathematical Modeling**  
+- Currently expanding my knowledge in **Python**, **Machine Learning**, **Deep Learning**, and **Mathematical Modeling**  
 -  Open to collaborating on **real-world AI/ML projects** and **Python automation tools**  
 -  Passionate about **Linux customization**, performance tuning, and system optimization  
 -  Fun fact: I enjoy exploring **Linux distros** and researching **global politics**  
@@ -18,18 +18,18 @@ My focus is on leveraging Python, mathematics, and AI/ML methodologies to develo
 ###  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaminchowdhury1122&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminchowdhury1122&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminchowdhury1122&hide=css,scss,html&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
-
 
 ---
 
-###  Technical Skills
+### Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,vscode,html,css,js,react,django" alt="Skills"/>
 </p>
 
 ---
+
 ###  Connect with Me
 <p align="center">
   <a href="https://www.facebook.com/al.amin.chowdhury.575638/" target="_blank">
